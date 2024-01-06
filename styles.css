@@ -1,0 +1,33 @@
+hr {
+    color: rgb(17, 237, 116);
+}
+body{
+    background-image: url(6817.jpg);
+}
+#upcoming {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: rgba(23, 255, 11, 0.73);
+    font-size: 22px;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+    text-decoration: none;
+}
+#livematch {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: rgba(23, 255, 11, 0.73);
+    font-size: 22px;
+    position: absolute; top: 130px;
+    border-radius: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+#completed {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: rgba(23, 255, 11, 0.73);
+    font-size: 22px;
+    position: absolute; top: 185px;
+    border-radius: 5px 5px 5px 5px;
+    text-decoration: none;
+}

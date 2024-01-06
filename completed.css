@@ -1,0 +1,13 @@
+body {
+    height: 400px;
+    width: 400px;
+    background-image: url(6817.jpg);
+}
+#back {
+    font-size: 45spx;
+    border: 1px solid aqua;
+    padding: 5px;
+    text-decoration: none;
+    position: absolute; bottom: 10px;
+    color: white;
+}
